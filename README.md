@@ -48,6 +48,5 @@ https://www.figma.com/proto/U7S5Xe0JVom7FJEgwrUT4N/Student-Athlete-Mental-Health
 
 
 ## Notes
-Version 1 and Version 2 are intentionally different.  
-After user testing, I restarted the design to create a clearer, more intuitive flow that better supports student-athletes’ needs.  
-This project demonstrates the full iterative design cycle and how feedback directly shaped the final prototype.
+Version 1 and Version 2 look different on purpose.
+After doing user testing and looking back at my first design, I realized the original layout wasn’t really supporting the flow I wanted. So instead of making small edits, I decided to restart and create a cleaner, more intuitive version. This updated prototype shows how my design improved after going through the full process.
