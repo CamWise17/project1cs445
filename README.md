@@ -1,8 +1,7 @@
 # Project 1 – Mental Fatigue Check-In App
 
 This repository contains the full design process and digital prototype for my Project 1.  
-The goal of this project is to create a simple, supportive interface that helps student-athletes track and communicate their mental fatigue levels without feeling overwhelmed.
-
+The goal of this project is to create a simple, supportive interface -	that helps student athletes track mental fatigue and get support before burnout hits
 ---
 
 ##  Problem Statement
@@ -14,22 +13,18 @@ This app provides a quick daily check-in, a weekly summary, and personalized sug
 ## Repository Contents
 
 ### **problem-identification/**
-Contains my original problem statement and early understanding of the user needs.
+Mental Fatigue From Constant Performance Pressure
+Grand Challenge: Well being, health, & eudaimonia
 
 ### **sketches/**
-Includes all 30+ sketches:
-- Early wide exploration  
-- Refined variations  
-- Final chosen flow  
-
-These sketches show how the design evolved before moving into digital prototyping.
+These sketches basically show my whole thought process and how the design evolved before I made the digital version.
 
 ### **figma/**
 Contains the **Version 1 low‑fidelity prototype** (the original design before user testing).  
 This version represents my first attempt at structuring the app.
 
 ### **mockups-v2/**
-Contains the **Version 2 updated prototype**, which is the design I created *after user testing and feedback*.  
+Contains the **Version 2 updated prototype**, which is the design I created after user testing and feedback.  
 I restarted the design to create a cleaner, clearer, and more intuitive flow based on what I learned during testing.
 
 ---
@@ -45,6 +40,7 @@ This is the clickable Figma prototype created after user testing and redesign.
 ---
 
 ##  Process Document
+
 
 
 
