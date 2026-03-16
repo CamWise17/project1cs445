@@ -1,9 +1,53 @@
 # Project 1 – Mental Fatigue Check-In App
 
-## This repo contains the design and digital prototype for my Project 1.
+This repository contains the full design process and digital prototype for my Project 1.  
+The goal of this project is to create a simple, supportive interface that helps student-athletes track and communicate their mental fatigue levels without feeling overwhelmed.
 
-## Problem Statement
-Student-athletes often struggle to track and communicate their mental fatigue levels in a simple, non-overwhelming way.
+---
 
-## Contents
-- `figma/` – PDF export of my Figma screens (Daily Check-In, Weekly Summary, Suggestions).
+##  Problem Statement
+Student-athletes often struggle to track and communicate their mental fatigue levels in a simple, non-overwhelming way.  
+This app provides a quick daily check-in, a weekly summary, and personalized suggestions to support mental well-being.
+
+---
+
+## Repository Contents
+
+### **problem-identification/**
+Contains my original problem statement and early understanding of the user needs.
+
+### **sketches/**
+Includes all 30+ sketches:
+- Early wide exploration  
+- Refined variations  
+- Final chosen flow  
+
+These sketches show how the design evolved before moving into digital prototyping.
+
+### **figma/**
+Contains the **Version 1 low‑fidelity prototype** (the original design before user testing).  
+This version represents my first attempt at structuring the app.
+
+### **mockups-v2/**
+Contains the **Version 2 updated prototype**, which is the design I created *after user testing and feedback*.  
+I restarted the design to create a cleaner, clearer, and more intuitive flow based on what I learned during testing.
+
+---
+
+## Final Interactive Prototype (Version 2)
+This is the clickable Figma prototype created after user testing and redesign.
+
+**Interactive Prototype:**  
+https://www.figma.com/proto/U7S5Xe0JVom7FJEgwrUT4N/Student-Athlete-Mental-Health-%E2%80%93-Prototype?node-id=0-1&t=7wrykqInG1uQalv0-1
+
+---
+
+##  Process Document
+
+
+
+
+## Notes
+Version 1 and Version 2 are intentionally different.  
+After user testing, I restarted the design to create a clearer, more intuitive flow that better supports student-athletes’ needs.  
+This project demonstrates the full iterative design cycle and how feedback directly shaped the final prototype.
