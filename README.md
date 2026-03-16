@@ -38,7 +38,9 @@ I restarted the design to create a cleaner, clearer, and more intuitive flow bas
 This is the clickable Figma prototype created after user testing and redesign.
 
 **Interactive Prototype:**  
-https://www.figma.com/proto/U7S5Xe0JVom7FJEgwrUT4N/Student-Athlete-Mental-Health-%E2%80%93-Prototype?node-id=0-1&t=7wrykqInG1uQalv0-1
+[https://www.figma.com/proto/U7S5Xe0JVom7FJEgwrUT4N/Student-Athlete-Mental-Health-%E2%80%93-Prototype?node-id=0-1&t=4hR4uAQ6NhXX7H3N-1]
+
+
 
 ---
 
